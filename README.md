@@ -36,15 +36,20 @@ pip install flask pandas numpy scikit-learn
 
 
 3.  Launch the Backend (api.py) in the terminal
-   
+
+Run the server:
+
+cd Backend
 python api.py
+
+
 
 Launch the Web Interface (The "Front End")
 Now that the model file exists, we can start your Flask server.
 
 Run the application:
 
-Bash
+cd Frontend
 python app.py
 Watch the terminal:
 You should see output similar to:

@@ -40,6 +40,7 @@ pip install flask pandas numpy scikit-learn
 Run the server:
 
 cd Backend
+
 python api.py
 
 
@@ -50,6 +51,7 @@ Now that the model file exists, we can start your Flask server.
 Run the application:
 
 cd Frontend
+
 python app.py
 Watch the terminal:
 You should see output similar to:
@@ -69,6 +71,6 @@ Test the Flow:
 
 Login: Enter any username/password (unless you coded specific ones, just press Login).
 
-Dashboard: Try entering values (e.g., G1: 12, G2: 13, Absences: 2).
+Dashboard: Try entering values (e.g., G1: 12, G2: 13, Absences: 2, StudyHours: 12, Failures: 1).
 
 Predict: Click the "Predict" button.

@@ -30,6 +30,7 @@ Plaintext /Student_Project
 │    └── Student_tst.ipynb
 ├── Preprocessing
 │    └── preprocessing.ipynb
+
 Environment Setup Open your terminal (Command Prompt or VS Code Terminal) and navigate to the project folder.
 Step A: Create a Virtual Environment (Optional but Recommended)
 
